@@ -1,0 +1,6 @@
+ 0 LOGIN 1
+ 1 GET ALL TOTALS ftotal22 > ftotal22.tot
+ 2 GET ALL TOTALS ftotal23 > ftotal23.tot
+ 3 GET ALL TOTALS ftotal24 > ftotal24.tot
+ 4 LOGOUT
+ 
